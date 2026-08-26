@@ -54,7 +54,7 @@ Probed 6 scenarios across 5 personas · 4 fired correctly · 2 correctly stayed 
 
 > **"方案我大概想好了,帮我想想还有没有漏洞,然后我们开工"** → Deferred to grilling. This skill frames the decision; interrogating a committed build plan is explicitly someone else's seat.
 
-Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe)
+Probe method: [scenario-probe](https://github.com/m1nga/scenario-probe/)
 
 ## Author
 
